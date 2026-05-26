@@ -65,11 +65,12 @@ numpy-sales-analytics/
 
 ### Daily Sales Trend
 
-![Sales Trend](images/sales_trend.png)
+<img width="1338" height="578" alt="image" src="https://github.com/user-attachments/assets/dc513bb2-fc5b-42bf-b80c-9694b6d2e473" />
+
 
 ### Product Sales Comparison
 
-![Product Sales](images/product_sales.png)
+<img width="963" height="563" alt="image" src="https://github.com/user-attachments/assets/2f78791f-dbe8-4e15-ace1-ab849dd2bfdb" />
 
 ---
 
