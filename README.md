@@ -94,9 +94,3 @@ numpy-sales-analytics/
 - Correlation analysis
 - Export reports to CSV
 - Interactive dashboards
-
----
-
-## Author
-
-Bogdan Lakicevic
